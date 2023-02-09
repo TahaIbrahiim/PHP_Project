@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table,
+tr,
+td,
+th {
+    padding: 1.2rem;
+    border: 1px solid black;
+}
+
+.bg {
+    background: #a3dcde;
+}
